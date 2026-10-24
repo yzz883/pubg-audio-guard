@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+VBCABLE/
+VBCABLE_Driver_Pack43.zip
+启动调参台.bat
+*.log
+shot.ps1

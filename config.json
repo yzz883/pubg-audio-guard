@@ -1,0 +1,22 @@
+{
+  "language": "en_US",
+  "input_match": "CABLE Output",
+  "output_match": "",
+  "samplerate": 48000,
+  "blocksize": 480,
+  "channels": 2,
+  "queue_target_blocks": 5,
+  "pre_gain_db": 12.0,
+  "comp_threshold_db": -15.0,
+  "comp_ratio": 5.0,
+  "comp_attack_ms": 8.0,
+  "comp_release_ms": 250.0,
+  "auto_makeup": true,
+  "limiter_ceiling_db": -3.0,
+  "limiter_attack_ms": 2.0,
+  "limiter_release_ms": 60.0,
+  "low_shelf_freq": 180.0,
+  "low_shelf_gain_db": -18.0,
+  "high_shelf_freq": 4000.0,
+  "high_shelf_gain_db": -6.0
+}
